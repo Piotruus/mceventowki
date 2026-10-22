@@ -1,0 +1,13 @@
+name: MoneyCodeEventowki
+version: 2.1.0
+main: pl.moneycode.eventowki.MoneyCodeEventowki
+api-version: '1.21'
+author: MoneyCode
+softdepend: [WorldGuard, WorldEdit]
+commands:
+  mceventowki:
+    description: GUI eventowek
+    usage: /mceventowki
+permissions:
+  moneycode.eventowki.admin:
+    default: op

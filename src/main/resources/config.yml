@@ -1,0 +1,6 @@
+# Blokada ma pierwszenstwo nad dozwoleniem.
+blocked-region-keyword: spawn
+allowed-region-keyword: pvp
+allow-without-region: true
+worlds-always-allow-without-region:
+  - lifestealpvp
